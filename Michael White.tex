@@ -1,0 +1,142 @@
+\documentclass[letterpaper,10pt]{article}
+
+%A Few Useful Packages
+\usepackage{marvosym}
+\usepackage{fontspec} 					%for loading fonts
+\usepackage{xunicode,xltxtra,url,parskip} 	%other packages for formatting
+\RequirePackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+%\usepackage[big]{layaureo} 				%better formatting of the A4 page
+% an alternative to Layaureo can be ** \usepackage{fullpage} **
+\usepackage{fullpage}
+\usepackage{supertabular} 				%for Grades
+\usepackage{titlesec}					%custom \section
+
+%Setup hyperref package, and colours for links
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0,0}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+
+%FONTS
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[SmallCapsFont = Fontin SmallCaps]{Fontin}
+
+%CV Sections inspired by: 
+%http://stefano.italians.nl/archives/26
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+%Tweak a bit the top margin
+\addtolength{\voffset}{-1.3cm}
+\addtolength{\textheight}{5cm}
+
+%Italian hyphenation for the word: ''corporations''
+%\hyphenation{im-pre-se}
+
+%-------------WATERMARK TEST [**not part of a CV**]---------------
+\usepackage[absolute]{textpos}
+
+\setlength{\TPHorizModule}{30mm}
+\setlength{\TPVertModule}{\TPHorizModule}
+\textblockorigin{2mm}{0.65\paperheight}
+\setlength{\parindent}{0pt}
+
+%--------------------BEGIN DOCUMENT----------------------
+\begin{document}
+
+%WATERMARK TEST [**not part of a CV**]---------------
+%\font\wm=''Baskerville:color=787878'' at 8pt
+%\font\wmweb=''Baskerville:color=FF1493'' at 8pt
+%{\wm 
+	%\begin{textblock}{1}(0,0)
+		%\rotatebox{-90}{\parbox{500mm}{
+			%Typeset by Alessandro Plasmati with \XeTeX\  \today\ for 
+			%{\wmweb \href{http://www.aleplasmati.comuv.com}{aleplasmati.comuv.com}}
+		%}
+	%}
+	%\end{textblock}
+%}
+
+\pagestyle{empty} % non-numbered pages
+
+\font\fb=''[cmr10]'' %for use with \LaTeX command
+
+%--------------------TITLE-------------
+\par{\centering
+		{\Huge Michael A. \textsc{White}
+	}\bigskip\par}
+
+%--------------------SECTIONS-----------------------------------
+%Section: Personal Data
+
+\begin{center}
+\begin{tabular}{lr}
+    +1 617.899.1621           &
+     \href{mailto:michael.white@tufts.edu}{michael.white@tufts.edu}     %\href{http://www.cs.tufts.edu/~mwhite10}{www.cs.tufts.edu/\textasciitilde{}mwhite10}    
+\end{tabular}
+\end{center}
+
+%Section: Work Experience at the top
+\section{Work Experience}
+\begin{tabular}{p{5em}p{12cm}}
+ \textsc{Dec 2009-} & Co-Founder and Developer at \textsc{GetchaBooks.com, LLC} \\\emph{Present}&\small{Created a website that offers students a novel way to find the best prices on their textbooks simply by selecting their courses.  Wrote most of the modular, scalable PHP/MySQL backend.} \\\multicolumn{2}{c}{} \\
+\textsc{June 2010-} & Student Research Assistant at \textsc{AIFB, Karlsruhe Institute of Technology} \\ \textsc{Aug 2010} &\small{Developed AskQ, a Semantic MediaWiki extension that processes natural language-style user queries and displays usable semantic results.} \\\multicolumn{2}{c}{} \\
+ \textsc{Jul 2008-} & Salesperson and Manager at \textsc{Boston Skyline, Inc.} \\\textsc{Aug 2010}&\small{As a t-shirt pushcart attendant on the Boston Common, assisted hundreds of customers daily, involving significant cash flow.  As a manager, oversaw personnel, cash flow and inventory management at several carts.}\\\multicolumn{2}{c}{} \\
+%\textsc{Dec 2007-} & Busser at \textsc{J.P. O'Hanlon's Irish Pub and Restaurant}, Ayer, MA \\\textsc{Jun 2008}&\footnotesize{Bussed tables and assisted waitstaff and bartenders as needed in a fast-paced restaurant environment.}\\\multicolumn{2}{c}{} \\
+\textsc{Summer} & Tech support at \textsc{F. W. Parker Charter School}, Devens, MA \\\textsc{2006 \& 2007}&\small{Disassembled, serviced and reassembled 100 school computer installations.  Performed hardware maintenance, troubleshot hardware and software problems, and provided support to faculty.}
+\end{tabular}
+
+%Section: Education
+\section{Education}
+\begin{tabular}{p{5em}l}
+\textsc{May} 2012 & B.Sc in Computer Science, \textsc{Tufts University}, Medford, MA\\
+(expected) & \textsc{Gpa}: 3.44. Dean's List Fall 2008, Fall 2009, Fall 2010. \\\\
+\textsc{May} 2008 & \textsc{Francis W. Parker Charter Essential School}, Devens, MA
+\end{tabular}
+
+
+%\begin{tabular}{rlll}	
+ %\textsc{May} 2012 & \multicolumn{3}{l}{Bachelor of Science in \textsc{Computer Science}, \textbf{Tufts University}, Medford, MA}\\
+ %(expected) & \multicolumn{3}{l}{Minor in \textsc{Philosophy}. \textsc{Gpa}: 3.43. Dean's List Fall 2008, Fall 2009, Fall 2010.}\\\\
+% & Selected Courses: \\
+%  & $\bullet$ Data Structures & $\bullet$ Programming Languages & $\bullet$ Web Programming \\
+%  & $\bullet$ Artificial Intelligence & $\bullet$ Algorithms & $\bullet$ Syntactic Theory \\
+% & \multicolumn{3}{l}{See \href{http://www.notabilia.us}{http://www.notabilia.us} for a list of classes taken.}\\
+% \\
+%\textsc{May} 2008 & \multicolumn{3}{l}{\textbf{Francis W. Parker Charter Essential School}, Devens, MA}\\
+%\end{tabular}
+
+\section{Skills}
+\begin{tabular}{rl}
+Adept with: & \textsc{PHP}, My\textsc{SQL}, \textsc{HTML/CSS}, Linux \\
+Proficient in: & \textsc{C}, \textsc{C++}, JavaScript\\
+Working knowledge:  & Ruby, Python, Prolog, {\fb \LaTeX}\setmainfont[SmallCapsFont=Fontin SmallCaps]{Fontin-Regular}\\
+\end{tabular}
+
+\section{Interests}
+\begin{itemize}
+\item Philosophy, artificial general intelligence, language\vspace{-0.2em}
+\item Technology, free software\vspace{-0.2em}
+\item Music (nine years of classical piano training)\vspace{-0.2em}
+\end{itemize}
+
+\section{Miscellaneous}
+
+%\begin{tabular}{l}
+\begin{itemize}
+ \item Conversational in German and Spanish.\vspace{-0.2em}
+ \item Hand-compiled a 15000-person genealogy database, available at \href{http://www.finison.com}{www.finison.com}.\normalsize\vspace{-0.2em}
+ \item Have contributed \href{http://en.wikipedia.org/wiki/User:Michael_A._White}{over forty articles and 4000 edits} to Wikipedia. \vspace{-0.2em}
+ \item Played a large role in Draft Bloomberg 2008 (\href{http://www.uniteformike.com}{www.uniteformike.com}).\vspace{-0.2em}
+ \item Twice reached the \href{http://www.rocketcontest.org}{Team America Rocketry Challenge} national finals.\vspace{-0.2em}
+ %\item Studied classical piano for nine years.\vspace{-0.2em}
+ \item National Merit Scholar (2008).\vspace{-0.2em}
+ 
+\end{itemize}
+%\end{tabular}
+
+%\newpage
+%\hypertarget{gmat}{\textsc{Gmat}\setmainfont{LMRoman10 Regular}\textregistered\setmainfont[SmallCapsFont=Fontin-SmallCaps]{Fontin-Regular}}
+
+%\XeTeXpdffile ''GMAT.pdf'' page 1 scaled 800
+
+\end{document}
