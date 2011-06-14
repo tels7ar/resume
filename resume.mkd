@@ -31,7 +31,7 @@
 
 *   Adept with PHP, MySQL, and HTML/CSS. 
 *   Proficient in C and C++.
-*   Familiar with, in roughly descending order, TI-BASIC, Python, JavaScript, jQuery, Prolog, LaTeX, Scheme, Assembly, Java, Ruby, and Haskell.
+*   Familiar with, in roughly descending order, Python, JavaScript, jQuery, Prolog, LaTeX, Scheme, Assembly, Java, Ruby, and Haskell.
 
 ### Education
 
