@@ -1,59 +1,67 @@
 ## [Michael White](http://mwhite.info)
 
-[michael.white@tufts.edu](mailto:michael.white@tufts.edu)
+[mwhite@getchabooks.com](mailto:mwhite@getchabooks.com)
 
 ### Work Experience
 
-*	**Co-Founder** at **[GetchaBooks](http://getchabooks.com), LLC** <br/>
-	(December 2009 - present)
+*	**Co-Founder and Backend Engineer** at **[GetchaBooks](http://getchabooks.com), LLC**<br/>
+	December 2009 - present
 
-	Created a course-based textbook price comparison website with PHP, Propel ORM, MySQL, 
+	Created a course-based textbook price comparison website using PHP, Propel ORM, MySQL, 
 	jQuery, and Memcached.
 	
-	-	Designed the database and wrote all of the model logic.
-	-	Wrote bookstore scrapers, handling pesky JavaScript and cookies.
+	-	Designed the database and wrote most of the backend and all of the models.
+	-	Wrote modular, piecemeal, on-demand bookstore scrapers handling JavaScript and cookies.
 	-	Managed our server as the de facto sysadmin.
 
 *	**Student Research Assistant** at **[AIFB](http://www.aifb.kit.edu), Karlsruhe Institute of Technology**<br/>
-	(June 2010 - August 2010)
+	June 2010 - August 2010
 	
 	Wrote [AskQ](http://www.mediawiki.org/wiki/Extension:AskQ), a Semantic MediaWiki extension that
-	translates plain-text user queries into structured semantic queries, the results for which are 
-	then displayed using the built-in semantic results page, extended by AskQ to include rudimentary
-	faceted browsing.
+	translates plain-text user queries into structured semantic queries and adds rudimentary faceted
+    browsing to query results.
 
-*	**Salesperson and manager** at **Boston Skyline, Inc.**<br/>
-	(July 2008 - August 2010)
+*	**Salesperson and Manager** at **Boston Skyline, Inc.**<br/>	
+    July 2008 - August 2010
 	
 	Sold shirts throughout downtown Boston at a busy pushcart retailer.  Managed inventory,
 	cashflow, and employees.
 
-*	**Tech support** at **F. W. Parker Charter School**<br/>
-	(Summer 2006 and 2007)
-	
-	Disassembled, serviced, and re-assembled 100 computer installations and	provided support to faculty.
-
 ### Skills
 
-*	Adept with PHP, MySQL, and HTML/CSS.
+*	Adept with PHP, MySQL, and HTML/CSS. 
 *	Proficient in C and C++.
-*	Familiar with Python, Ruby, jQuery,	Prolog, LaTeX, Scheme and Assembly.
+*	Familiar with, in roughly descending order, TI-BASIC, Python, JavaScript, jQuery, Prolog, LaTeX, Scheme, Assembly, Java, Ruby, and Haskell.
 
 ### Education
 
-*	B.S. in Computer Science, [Tufts University](http://www.tufts.edu), Medford, MA <br/>
+*	B.S. in Computer Science, [Tufts University](http://www.tufts.edu), Medford, MA<br/>
 	(expected May 2012)
+
+    Summer 2011 semester abroad at the University of Tübingen.
 	
 	GPA: 3.44.  Dean's list Fall 2008, 2009, 2010.	
-	
-### Interests
 
-*	Artificial general intelligence, the Semantic Web, computational linguistics, genomics
+    Things I learned in school:
+
+    -   Analysis and design of algorithms, in [COMP160](http://www.cs.tufts.edu/courses/description/fall2009/COMP/160-01)
+    -   Computation at the machine-level, in [COMP40](http://www.cs.tufts.edu/courses/description/fall2010/COMP/40-01) 
+    -   How to write efficient memory-leak free C, in COMP40
+    -   Philosophy of mind and language
+    -   Generative syntax and semantics, plus several grammar formalisms and tools for using them	
 
 ### Miscellaneous
 
-*	Conversational in German and Spanish and have good language acquisition ability.
-*	Twice reached the national finals of the [Team America Rocketry Challenge](http://rocketcontest.org).
-*	Hand-compiled a [15000-person genealogy database](http://www.finison.com).
+*	Natural language competency
+
+    English: superb.
+    German: fairly advanced (B2/C1 on the EU scale).  
+    Spanish: decent consumptive, bad productive.
+    
+*   Twice reached the national finals of the [Team America Rocketry Challenge](http://rocketcontest.org).
+*	Compiled a [15000-person genealogy database](http://www.finison.com).
 *	Longtime Wikipedia editor with 4000+ edits and ~40 articles (mostly short) contributed.
-*	Took classical piano lessons for 9 years and played baseball for 12.
+
+### Interests
+
+*	Artificial general intelligence, philosophy, music
