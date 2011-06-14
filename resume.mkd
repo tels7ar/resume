@@ -54,11 +54,9 @@
 
 *   Natural language competency
 
-    English: superb.
-
-    German: fairly advanced (B2/C1 on the EU scale).  
-
-    Spanish: decent consumptive, bad productive.
+    -   English: superb.
+    -   German: fairly advanced (B2/C1 on the EU scale).  
+    -   Spanish: decent consumptive, bad productive.
     
 *   Twice reached the national finals of the [Team America Rocketry Challenge](http://rocketcontest.org).
 *   Compiled a [15000-person genealogy database](http://www.finison.com).
