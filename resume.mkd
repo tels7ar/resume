@@ -4,7 +4,7 @@
 
 ### Work Experience
 
-*   **Co-Founder and Backend Engineer** at **[GetchaBooks](http://getchabooks.com), LLC**
+*   **Co-Founder and Backend Engineer** at **[GetchaBooks](http://getchabooks.com), LLC**<br/>
     December 2009 - present
 
     Created a course-based textbook price comparison website using PHP, Propel ORM, MySQL, 
@@ -14,14 +14,14 @@
     -   Wrote modular, piecemeal, on-demand bookstore scrapers handling JavaScript and cookies.
     -   Managed our server as the de facto sysadmin.
 
-*   **Student Research Assistant** at **[AIFB](http://www.aifb.kit.edu), Karlsruhe Institute of Technology**
+*   **Student Research Assistant** at **[AIFB](http://www.aifb.kit.edu), Karlsruhe Institute of Technology**<br/>
     June 2010 - August 2010
     
     Wrote [AskQ](http://www.mediawiki.org/wiki/Extension:AskQ), a Semantic MediaWiki extension that
     translates plain-text user queries into structured semantic queries and adds rudimentary faceted
     browsing to query results.
 
-*   **Salesperson and Manager** at **Boston Skyline, Inc.** 
+*   **Salesperson and Manager** at **Boston Skyline, Inc.**<br/>
     July 2008 - August 2010
     
     Sold shirts throughout downtown Boston at a busy pushcart retailer.  Managed inventory,
@@ -35,7 +35,7 @@
 
 ### Education
 
-*   B.S. in Computer Science, [Tufts University](http://www.tufts.edu), Medford, MA
+*   B.S. in Computer Science, [Tufts University](http://www.tufts.edu), Medford, MA<br/>
     (expected May 2012)
 
     Summer 2011 semester abroad at the University of Tübingen.
