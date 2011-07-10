@@ -1,67 +1,61 @@
-## [Michael White](http://mwhite.info)
+Michael White <m@mwhite.info>
+=============================
 
-[mwhite@getchabooks.com](mailto:mwhite@getchabooks.com)
+Work Experience
+---------------
 
-### Work Experience
+*   *Co-Founder and Backend Engineer* at *[GetchaBooks][], LLC*
 
-*   **Co-Founder and Backend Engineer** at **[GetchaBooks](http://getchabooks.com), LLC**<br/>
     December 2009 - present
-
-    Created a course-based textbook price comparison website using PHP, Propel ORM, MySQL, 
-    jQuery, and Memcached.
     
-    -   Designed the database and wrote most of the backend and all of the models.
-    -   Wrote modular, piecemeal, on-demand bookstore scrapers handling JavaScript and cookies.
-    -   Managed our server as the de facto sysadmin.
+    - Designed and wrote most of the **PHP/MySQL** backend, using a makeshift **MVC**, **Propel ORM**,
+      and **Memcached**.
+    - Wrote modular, piecemeal, on-demand bookstore scrapers handling JavaScript and cookies.
+    - Managed our **Linux** server.
 
-*   **Student Research Assistant** at **[AIFB](http://www.aifb.kit.edu), Karlsruhe Institute of Technology**<br/>
+*   *Student Research Assistant* at *[AIFB][], Karlsruhe Institute of Technology*
+
     June 2010 - August 2010
     
-    Wrote [AskQ](http://www.mediawiki.org/wiki/Extension:AskQ), a Semantic MediaWiki extension that
-    translates plain-text user queries into structured semantic queries and adds rudimentary faceted
-    browsing to query results.
+    - Wrote [AskQ][], a **Semantic MediaWiki** extension that translates plain-text user queries 
+      into structured semantic queries and adds rudimentary faceted browsing to query results,
+      using **PHP**, **MySQL**, and **jQuery**.
 
-*   **Salesperson and Manager** at **Boston Skyline, Inc.**<br/>
+*   *Salesperson and Manager* at *Boston Skyline, Inc.*
+
     July 2008 - August 2010
     
-    Sold shirts throughout downtown Boston at a busy pushcart retailer.  Managed inventory,
-    cashflow, and employees.
+    - Sold shirts throughout downtown Boston at a busy pushcart retailer.  Managed inventory,
+      cashflow, and employees.
 
-### Skills
+Education
+---------
 
-*   Adept with PHP, MySQL, and HTML/CSS. 
-*   Proficient in C and C++.
-*   Familiar with, in roughly descending order, Python, JavaScript, jQuery, Prolog, LaTeX, Scheme, Assembly, Java, Ruby, and Haskell.
+*   *B.A. in Computer Science*, [Tufts University][], Medford, MA
 
-### Education
-
-*   B.A. in Computer Science, [Tufts University](http://www.tufts.edu), Medford, MA<br/>
     (expected May 2012)
 
-    Summer 2011 semester abroad at the University of Tübingen.
+    - GPA: 3.44.  Dean's list Fall 2008, 2009, 2010.
+    - Semester abroad at the University of Tübingen.
     
-    GPA: 3.44.  Dean's list Fall 2008, 2009, 2010.  
+    Some particular things I learned in school:
 
-    Things I learned in school:
+    - Analysis and design of **algorithms**, in [COMP160][]
+    - How to write good **C/C++** with **valgrind**, **gdb**, and **ddd**, in [COMP40][]
+    - **Assembly** and the underlying machine model, in [COMP40][] 
+    - Philosophy of mind and language
+    - Theoretical and **computational linguistics**
 
-    -   Analysis and design of algorithms, in [COMP160](http://www.cs.tufts.edu/courses/description/fall2009/COMP/160-01)
-    -   Computation at the machine-level, in [COMP40](http://www.cs.tufts.edu/courses/description/fall2010/COMP/40-01) 
-    -   How to write efficient memory-leak free C, in COMP40
-    -   Philosophy of mind and language
-    -   Generative syntax and semantics, plus several grammar formalisms and tools for using them   
+Miscellaneous
+-------------
 
-### Miscellaneous
-
-*   Natural language competency
-
-    -   English: superb.
-    -   German: fairly advanced (B2/C1 on the EU scale).  
-    -   Spanish: decent consumptive, bad productive.
+*   At various times, I've written **Python**, **Prolog**, **LaTeX**, **Scheme**,
+    **Java**, **Ruby**, and **Haskell**, and **BASIC**.
+*   Natural language competency: English (superb), German (decent), Spanish (mediocre)
     
-*   Twice reached the national finals of the [Team America Rocketry Challenge](http://rocketcontest.org).
-*   Compiled a [15000-person genealogy database](http://www.finison.com).
-*   Longtime Wikipedia editor with 4000+ edits and ~40 articles (mostly short) contributed.
-
-### Interests
-
-*   Artificial general intelligence, philosophy, music
+ [Getchabooks]: http://getchabooks.com
+ [AIFB]: http://www.aifb.kit.edu
+ [AskQ]: http://www.mediawiki.org/wiki/Extension:AskQ
+ [Tufts University]: http://www.cs.tufts.edu
+ [COMP160]: http://www.cs.tufts.edu/courses/description/fall2009/COMP/160-01
+ [COMP40]: http://www.cs.tufts.edu/courses/description/fall2010/COMP/40-01

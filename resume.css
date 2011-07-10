@@ -3,7 +3,7 @@ body {
 	width: 7.5in;
 	padding: .5in;
 	padding-bottom: 0;
-	font: 10pt Verdana, sans-serif;
+	font-family: helvetica, Verdana, sans-serif;
 	color: #333;
 	background: #FBFBFB;
 }
