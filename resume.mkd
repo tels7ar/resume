@@ -38,10 +38,10 @@ Education
     -   GPA: 3.44.  Dean's list Fall 2008, 2009, 2010.
     -   Semester abroad at the University of Tübingen.
     -   Some particular things I learned:
-        -   Analysis and design of **algorithms**, in [COMP160][]
-        -   How to write good **C/C++** with **valgrind**, **gdb**, and **ddd**, in [COMP40][]
-        -   **Assembly** and the underlying machine model, in [COMP40][] 
-        -   Philosophy of mind and language
+        *   Analysis and design of **algorithms**, in [COMP160][]
+        *   How to write good **C/C++** with **valgrind**, **gdb**, and **ddd**, in [COMP40][]
+        *   **Assembly** and the underlying machine model, in [COMP40][] 
+        *   Philosophy of mind and language
     -   Theoretical and **computational linguistics**
 
 Miscellaneous
