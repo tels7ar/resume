@@ -39,7 +39,7 @@ Education
     -   Semester abroad at the University of Tübingen.
     
     Some particular things I learned in school:
-
+    
     -   Analysis and design of **algorithms**, in [COMP160][]
     -   How to write good **C/C++** with **valgrind**, **gdb**, and **ddd**, in [COMP40][]
     -   **Assembly** and the underlying machine model, in [COMP40][] 
