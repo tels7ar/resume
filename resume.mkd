@@ -8,25 +8,25 @@ Work Experience
 
     December 2009 - present
     
-    - Designed and wrote most of the **PHP/MySQL** backend, using a makeshift **MVC**, **Propel ORM**,
-      and **Memcached**.
-    - Wrote modular, piecemeal, on-demand bookstore scrapers handling JavaScript and cookies.
-    - Managed our **Linux** server.
+    -   Designed and wrote most of the **PHP/MySQL** backend, using a makeshift **MVC**, **Propel ORM**,
+        and **Memcached**.
+    -   Wrote modular, piecemeal, on-demand bookstore scrapers handling JavaScript and cookies.
+    -   Managed our **Linux** server.
 
 *   *Student Research Assistant* at *[AIFB][], Karlsruhe Institute of Technology*
 
     June 2010 - August 2010
     
-    - Wrote [AskQ][], a **Semantic MediaWiki** extension that translates plain-text user queries 
-      into structured semantic queries and adds rudimentary faceted browsing to query results,
-      using **PHP**, **MySQL**, and **jQuery**.
+    -   Wrote [AskQ][], a **Semantic MediaWiki** extension that translates plain-text user queries 
+        into structured semantic queries and adds rudimentary faceted browsing to query results,
+        using **PHP**, **MySQL**, and **jQuery**.
 
 *   *Salesperson and Manager* at *Boston Skyline, Inc.*
 
     July 2008 - August 2010
     
-    - Sold shirts throughout downtown Boston at a busy pushcart retailer.  Managed inventory,
-      cashflow, and employees.
+    -   Sold shirts throughout downtown Boston at a busy pushcart retailer.  Managed inventory,
+        cashflow, and employees.
 
 Education
 ---------
@@ -35,15 +35,16 @@ Education
 
     (expected May 2012)
 
-    - GPA: 3.44.  Dean's list Fall 2008, 2009, 2010.
-    - Semester abroad at the University of Tübingen.
+    -   GPA: 3.44.  Dean's list Fall 2008, 2009, 2010.
+    -   Semester abroad at the University of Tübingen.
     
     Some particular things I learned in school:
-    - Analysis and design of **algorithms**, in [COMP160][]
-    - How to write good **C/C++** with **valgrind**, **gdb**, and **ddd**, in [COMP40][]
-    - **Assembly** and the underlying machine model, in [COMP40][] 
-    - Philosophy of mind and language
-    - Theoretical and **computational linguistics**
+
+    -   Analysis and design of **algorithms**, in [COMP160][]
+    -   How to write good **C/C++** with **valgrind**, **gdb**, and **ddd**, in [COMP40][]
+    -   **Assembly** and the underlying machine model, in [COMP40][] 
+    -   Philosophy of mind and language
+    -   Theoretical and **computational linguistics**
 
 Miscellaneous
 -------------
