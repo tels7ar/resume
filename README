@@ -1,6 +1,0 @@
-This is my personal resumé, based on the template at http://www.cv-templates.info/2009/03/professional-cv-latex/
-
-To use, first
-
-* sudo apt-get install texlive-xetex texlive-latex-extra
-* Download the Fontin font from http://www.josbuivenga.demon.nl/fontin.html
