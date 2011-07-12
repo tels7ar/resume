@@ -4,34 +4,34 @@ Michael White <m@mwhite.info>
 Work Experience
 ---------------
 
-*   *Co-Founder and Backend Engineer* at *[GetchaBooks][], LLC*
+*   *Co-Founder and Backend Engineer* at [GetchaBooks][], LLC
 
     December 2009 - present
-    
+
     -   Designed and wrote most of the **PHP/MySQL** backend, using a makeshift **MVC**, **Propel ORM**,
         and **Memcached**.
     -   Wrote modular, piecemeal, on-demand bookstore scrapers handling JavaScript and cookies.
     -   Managed our **Linux** server.
 
-*   *Student Research Assistant* at *[AIFB][], Karlsruhe Institute of Technology*
+*   *Student Research Assistant* at [AIFB][], Karlsruhe Institute of Technology
 
     June 2010 - August 2010
-    
-    -   Wrote [AskQ][], a **Semantic MediaWiki** extension that translates plain-text user queries 
+
+    -   Wrote [AskQ][], a **Semantic MediaWiki** extension that translates plain-text user queries
         into structured semantic queries and adds rudimentary faceted browsing to query results,
         using **PHP**, **MySQL**, and **jQuery**.
 
-*   *Salesperson and Manager* at *Boston Skyline, Inc.*
+*   *Salesperson and Manager* at Boston Skyline, Inc.
 
     July 2008 - August 2010
-    
+
     -   Sold shirts throughout downtown Boston at a busy pushcart retailer.  Managed inventory,
         cashflow, and employees.
 
 Education
 ---------
 
-*   *B.A. in Computer Science*, [Tufts University][], Medford, MA
+*   *B.A. in Computer Science, Minor in Linguistics*, [Tufts University][], Medford, MA
 
     (expected May 2012)
 
@@ -39,8 +39,8 @@ Education
     -   Semester abroad at the University of Tübingen.
     -   Some particular things I learned in school:
         *   Analysis and design of **algorithms**, in [COMP160][]
-        *   How to write good **C/C++** with **valgrind**, **gdb**, and **ddd**, in [COMP40][]
-        *   **Assembly** and the underlying machine model, in [COMP40][] 
+        *   How to write good **C/C++** using **valgrind**, **gdb**, and **ddd**, in [COMP40][]
+        *   **Assembly** and the underlying machine model, in [COMP40][]
         *   Philosophy of mind and language
         *   Theoretical and **computational linguistics**
 
@@ -50,10 +50,10 @@ Miscellaneous
 *   At various times, I've written **Python**, **Prolog**, **LaTeX**, **Scheme**,
     **Java**, **Ruby**, and **Haskell**, and **BASIC**.
 *   Natural language competency: English (superb), German (decent), Spanish (mediocre)
-    
+
  [Getchabooks]: http://getchabooks.com
  [AIFB]: http://www.aifb.kit.edu
  [AskQ]: http://www.mediawiki.org/wiki/Extension:AskQ
  [Tufts University]: http://www.cs.tufts.edu
- [COMP160]: http://www.cs.tufts.edu/courses/description/fall2009/COMP/160-01
- [COMP40]: http://www.cs.tufts.edu/courses/description/fall2010/COMP/40-01
+ [COMP160]: http://www.cs.tufts.edu/t/courses/description/fall2009/COMP/160-01
+ [COMP40]: http://www.cs.tufts.edu/t/courses/description/fall2010/COMP/40-01
