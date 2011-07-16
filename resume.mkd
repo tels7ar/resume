@@ -48,7 +48,7 @@ Miscellaneous
 -------------
 
 *   At various times, I've written **Python**, **Prolog**, **LaTeX**, **Scheme**,
-    **Java**, **Ruby**, and **Haskell**, and **BASIC**.
+    **Java**, **Ruby**, **Haskell**, and **BASIC**.
 *   Natural language competency: English (superb), German (decent), Spanish (mediocre)
 
  [Getchabooks]: http://getchabooks.com
