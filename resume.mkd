@@ -8,6 +8,8 @@ Work Experience
 
     December 2009 - present
 
+    -   Conceived and built a novel course-based textbook price comparison website.
+
     -   Designed and wrote most of the **PHP/MySQL** backend, using a makeshift
         **MVC**, **Propel ORM**, and **Memcached**.
 
