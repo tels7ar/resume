@@ -8,7 +8,8 @@ Work Experience
 
     December 2009 - present
 
-    -   Conceived and built a novel course-based textbook price comparison website.
+    -   Conceived and built a business involving a novel course-based textbook 
+        price comparison website, in a team of three.
 
     -   Designed and wrote most of the **PHP/MySQL** backend, using a makeshift
         **MVC**, **Propel ORM**, and **Memcached**.
@@ -22,9 +23,9 @@ Work Experience
 
     June 2010 - August 2010
 
-    -   Wrote [AskQ][], a **Semantic MediaWiki** extension that translates
-        plain-text user queries into structured semantic queries and adds
-        rudimentary faceted browsing to query results, using **PHP**,
+    -   Designed and wrote [AskQ][], a **Semantic MediaWiki** extension that 
+        translates plain-text user queries into structured semantic queries and 
+        adds rudimentary faceted browsing to query results, using **PHP**,
         **MySQL**, and **jQuery**.
 
 *   *Salesperson and Manager* at Boston Skyline, Inc.
@@ -43,22 +44,30 @@ Education
 
     -   GPA: 3.44.  Dean's list Fall 2008, 2009, 2010.
 
-    -   Semester abroad at the University of Tübingen.
+    -   Semester abroad at the University of Tübingen, Germany.
 
     -   Some particular things I learned in school:
         *   Analysis and design of **algorithms**
         *   How to write good **C/C++** using **valgrind**, **gdb**, and **ddd**
         *   **Assembly** and machine structure
+        *   Theoretical and computational **linguistics**
         *   **Philosophy** of mind and language
-        *   Theoretical and **computational linguistics**
 
-Miscellaneous
--------------
 
-*   At various times, I've written **Python**, **Prolog**, **LaTeX**, **Scheme**,
-    **Java**, **Ruby**, **Haskell**, and **BASIC**.
+Skills
+------
 
-*   Natural language competency: English (native), German (decent), Spanish (mediocre)
+*   In addition to the skills in bold above, various levels of experience with 
+    **Python**, **Prolog**, **LaTeX**, **Scheme**, **Java**, **Ruby**, 
+    **Haskell**, **XSLT**, and **BASIC**.
+
+*   Creative vision informed by diverse subject-area knowledge and keen
+    awareness of existing tools and their capabilities.
+
+*   Ability to write flawless, even brilliant prose.
+
+*   Proficiency in German, near-proficiency in Spanish, and ability to learn
+    new languages quickly.
 
  [Getchabooks]: http://getchabooks.com
  [AIFB]: http://www.aifb.kit.edu
