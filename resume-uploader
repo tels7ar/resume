@@ -1,0 +1,118 @@
+#!/usr/bin/perl
+# resume-uploader.pl     philiph@pobox.com     2011/12/12 18:48:22
+
+use warnings;
+use strict;
+$|=1;
+use Data::Dumper;
+use Net::FTP;
+use File::HomeDir;
+
+my $MyWebsite = "direct.hollenback.net";
+my $ResumeDir = "/public_html/personal";
+
+my $ftp;
+
+my $LocalHome = File::HomeDir->my_home;
+my $LocalResumeDir = "$LocalHome/Documents/resume";
+
+#################################################
+# ftp_upload - shamelessly cribbed from         #
+# http://aplawrence.com/Unixart/perlnetftp.html #
+#################################################
+sub ftp_upload {
+  my $file = shift;
+  print "checking file $file on ftp server - ";
+
+  my $ftpsize = $ftp->size($file);
+  if (! $ftpsize)
+  {
+    print "not found, skipped\n";
+    return 0;
+  }
+
+  my $ftpmodtime = $ftp->mdtm($file);
+
+  my $stamp = gmtime $ftpmodtime;
+
+  my $modtime = (stat ("$LocalResumeDir/$file"))[9];
+
+  if ($modtime > $ftpmodtime)
+  {
+    $ftp->put("$LocalResumeDir/$file",$file);
+    print "uploaded\n";
+  }
+  else
+  {
+    print "not newer, skipped\n";
+  }
+}
+
+########
+# main #
+########
+if ($#ARGV < 0)
+{
+  print "nothing to do!\n";
+  exit 0;
+}
+
+$ftp = Net::FTP->new($MyWebsite, Debug => 0)
+  or die "Cannot connect to $MyWebsite: $@";
+
+# use .netrc to login
+$ftp->login()
+  or die "Cannot login ", $ftp->message;
+
+$ftp->cwd($ResumeDir)
+  or die "Cannot change working working directory: ", $ftp->message;
+
+# now I'm in the right directory, see if I need to upload resume files.
+foreach my $file (@ARGV)
+{
+  if (! -r "$LocalResumeDir/$file")
+  {
+    print "skipping unreadable file $LocalResumeDir/$file\n";
+  } else
+  {
+    ftp_upload($file);
+  }
+}
+$ftp->quit;
+
+exit 0;
+
+__END__
+
+=head1 NAME
+
+resume-uploader.pl
+
+=head1 SYNOPSIS
+
+resume-uploader.pl <file> [<file> ...]
+
+=head1 DESCRIPTION
+
+Uploads my resume files to my website via ftp.  Assumes username/password already configured in .netrc.
+
+Meant to be called from resume makefile.
+
+Only uploads files if they already exist on server.
+=head1 AUTHOR
+
+Philip J. Hollenback, E<lt>philiph@pobox.com<gt>
+
+=head1 COPYRIGHT AND LICENSE
+
+Copyright (C) 2011 by Philip J. Hollenback
+
+This program is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.8.2 or,
+at your option, any later version of Perl 5 you may have available.
+
+=head1 BUGS
+
+None reported... yet.
+
+=cut

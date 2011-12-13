@@ -1,3 +1,0 @@
-markdown2pdf -o resume.pdf -H header.tex resume.mkd
-
-pandoc -t html -o resume.html -c resume.css resume.mkd
