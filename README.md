@@ -1,4 +1,4 @@
-## Manage Your Resume With Markdown
+# Manage Your Resume With Markdown
 
 Based on [Mike White's resume](https://github.com/mwhite/resume).
 
