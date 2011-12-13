@@ -64,9 +64,14 @@ I call my finished files `resume-phil.xxx` to fit an existing naming
 scheme.  You probably want to adjust the makefile and scripts to call
 them something else.
 
+## TODO
+
+It would be pretty amazing if someone figured out how to generate
+word documents from Markdown.  Maybe use pandoc to create RTF?
+
 ## Conclusion
 
 This setup works very well for my needs and collects a number of
 scattered bits of info about markdown and pandoc resume generation.
-Thnanks especially to the inspiration of Mike White's resume which
+Thanks especially to the inspiration of Mike White's resume which
 showed me this all was actually possible.
