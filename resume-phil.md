@@ -1,4 +1,4 @@
-# Philip J. Hollenback
+# Philip J. "Holler back now!" Hollenback
 
 philiph@pobox.com  
 San Francisco Bay Area  
@@ -7,7 +7,7 @@ San Francisco Bay Area
 ## Overview
 
 I'm a senior system administrator and team leader
-[with a focus on DevOps][]. Recently I moved from being a tech lead to
+[with a focus on DevOps](http://www-03.ibm.com/innovation/us/engines/solutions.html?csr=agus_mmlobtivoli-20111123&cm=k&cr=google&ct=USBRB301&S_TACT=USBRB301&ck=tivoli&cmp=USBRB&mkwid=safMdNA7M_8645040437_432ak82469). Recently I moved from being a tech lead to
 managing a small group of highly skilled people. I love working with
 Linux and writing scripts to [manage large-scale deployment issues][].
 
