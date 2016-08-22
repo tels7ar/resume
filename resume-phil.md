@@ -13,9 +13,27 @@ Linux and writing scripts to [manage large-scale deployment issues][].
 
 ## Experience
 
+### [Lookout][], San Francisco, CA
+
+#### Senior Production Engineer - July 2015 to Present
+
+I'm part of the Production Engineering team. My responsibilities include designing deployment and automation services.
+
+I'm working on a lot of deployment automation using NixOS, a declarative Linux OS which allows you to precisely specify the deployment state of a service. For example, I wrote a a completely automated deployment process using NixOS to install Artifactory to Amazon EC2.
+
+I also manage other developer services like Jenkins and Gerrit, and assist with various other duties involving our build pipeline.
+
+### [Goodreads][], San Francisco, CA
+
+#### Senior Systems Engineer - April 2014 to July 2015
+
+I was part of the DevOps team and I wore many hats. I handled everything from writing scripts to automate Mysql server failovers to overseeing our monitoring setup.
+
+One thing I loved about this job is how many new technologies I was able to learn. This was the first time I ever wrote any ruby scripts for system administration and I enjoyed it thoroughly.
+
 ### [Yahoo][], Sunnyvale CA
 
-#### Manager, Release Management - September 2011 to present
+#### Manager, Release Management - September 2011 to April 2014
 
 I manage a team of three people who are responsible for software
 releases across all of Yahoo Communications (including Mail and
@@ -109,6 +127,8 @@ Journal, emphasizing open source software and hands-on solutions. See
   [http://www.linkedin.com/in/philiph]: http://www.linkedin.com/in/philiph
   [with a focus on DevOps]: http://www.hollenback.net/index.php/DevOpsMeansDontBeAnAhole
   [manage large-scale deployment issues]: http://www.hollenback.net/index.php/ServerLoadSpreading
+  [Lookout]: https://www.lookout.com/
+  [Goodreads]: https://www.goodreads.com/
   [Yahoo]: http://www.yahoo.com
   [to a new rules-based configuration management system]: https://db.usenix.org/events/lisa10/tech/full_papers/Hollenback.pdf
   [Schrodinger]: http://www.schrodinger.com
