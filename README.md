@@ -9,7 +9,7 @@ A collection of files and scripts to manage your resume in the
 text markup language.  Write your resume as a specially formatted text
 file and produce PDF and HTML versions easily.
 
-This started with a tex header file and build script.  I've modified
+This started with a TeX header file and build script.  I've modified
 it to use a Makefile and a XeTeX template.
 
 I switched to XeTeX so I could specify better fonts than the defaults
