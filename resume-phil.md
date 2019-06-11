@@ -91,48 +91,23 @@ clusters) with full AC and UPS support.
 Schrodinger is a leader in developing chemical simulation software for
 use in pharmaceutical and biotechnology research.
 
-### [Telemetry Investments][], New York, NY
-
-#### Senior System Administrator - July 2003 to August 2005
-
-Administered mixed Linux and Windows environment of 7 users. Planned and
-installed disaster recovery site. Managed Linux software packaging and
-migration from Solaris to Linux for servers and workstations.
-
-*Highlight*: Specified and built Linux WAN routers to connect main
-office to disaster recovery site. These routers connect 4 T1 and 1 T3
-line between sites using commodity hardware. Created custom Linux
-install based on Fedora Core 1 to run on 256MB flash hard drives. I
-wrote a Linux Journal cover story on this project, see the publications
-section below for details.
-
-Telemetry Investments is a hedge fund which manages over $100 million in
-funds for institutional and private investors.
-
 *previous positions listed in [my linkedin
 profile][http://www.linkedin.com/in/philiph]*
 
 ## Skills
 
-Proficient in perl and bash scripting for linux system administration.
-Experienced in administering a wide range of operating systems including
-RedHat Linux and FreeBSD, with an emphasis on large-scale deployments
-and automation. Focused on maximizing uptime on production web servers
-while also deploying code quickly and reliably.
+Well-versed in network and system security. Proficient with programming and
+administering security tokens (Yubikeys).  Very skilled in all kinds of
+scripting for linux system administration and orchestration / cloud management.
+Experienced in administering a wide range of systems, with an emphasis on all
+flavors of Linux.  Very comfortable working with CI/CD, large scale
+deployments, and all the automation associated with those systems.
 
 ## Education
 
 Bachelor of Science in Computer Science from The University of Montana.
 Emphasis in Artificial Intelligence. Minor in English Literature.
 Graduated 1996.
-
-## Associations and Publications
-
-Active member of the [League of Professional System Administrators][].
-
-I write technical articles for blogs and magazines such as Linux
-Journal, emphasizing open source software and hands-on solutions. See
-[www.hollenback.net/index.php/MyArticles][] for details.
 
   [http://www.linkedin.com/in/philiph]: http://www.linkedin.com/in/philiph
   [with a focus on DevOps]: http://www.hollenback.net/index.php/DevOpsMeansDontBeAnAhole
