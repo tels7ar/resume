@@ -31,7 +31,7 @@ I was part of the Production Engineering team. My responsibilities included desi
 
 I worked on a lot of deployment automation using NixOS, a declarative Linux OS which allows you to precisely specify the deployment state of a service. For example, I wrote a a completely automated deployment process using NixOS to install Artifactory to Amazon EC2.
 
-I also managed other developer services like Jenkins and Gerrit, and assist with various other duties involving our build pipeline.
+I also managed other developer services like Jenkins and Gerrit, and assisted with various other duties involving our build pipeline.
 
 ### [Goodreads][], San Francisco, CA
 
