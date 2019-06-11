@@ -6,22 +6,32 @@ San Francisco Bay Area
 
 ## Overview
 
-I'm a senior system administrator and team leader
-[with a focus on DevOps][]. Recently I moved from being a tech lead to
-managing a small group of highly skilled people. I love working with
-Linux and writing scripts to [manage large-scale deployment issues][].
+I'm a senior operations engineer and team leader [with a focus on DevOps][]. 
+I love working with Linux and writing scripts to [manage large-scale deployment issues][].
 
 ## Experience
 
+### [Oracle][], San Francisco, CA
+
+#### Senior Security Operations Engineer - November 2016 to Present
+
+I was brought on to the new Oracle Cloud to be a technical lead in the Security Operations group.  I was responsible for the technical direction of the team and in general for defining Security Operations for Oracle Cloud.  This included work such as implementing our first vulnerability scanning system and scaling out a yubikey-based authentication solution for internal users.
+
+Much of my development work revolved around our software patching system.  I took an initial system based on Fabric and scaled it up to patch several hundred servers on a monthly basis (with a comprehensive health check mechanism to avoid outages).  This included both Python and Bash scripting.  I also did reverse engineering work on our yubikey programming system to both document and improve it (that was in Ruby).
+
+I also managed metrics and alerting for the team, in our in-house system.  It used a Grafana front end and I was responsible for designing and implementing dashboards.
+
+I also ran a biweekly team operational excellence meeting, focused on ensuring that we took proper steps to correct outages and improved our general operational ability.
+
 ### [Lookout][], San Francisco, CA
 
-#### Senior Production Engineer - July 2015 to Present
+#### Senior Production Engineer - July 2015 to November 2016
 
-I'm part of the Production Engineering team. My responsibilities include designing deployment and automation services.
+I was part of the Production Engineering team. My responsibilities included designing deployment and automation services.
 
-I'm working on a lot of deployment automation using NixOS, a declarative Linux OS which allows you to precisely specify the deployment state of a service. For example, I wrote a a completely automated deployment process using NixOS to install Artifactory to Amazon EC2.
+I worked on a lot of deployment automation using NixOS, a declarative Linux OS which allows you to precisely specify the deployment state of a service. For example, I wrote a a completely automated deployment process using NixOS to install Artifactory to Amazon EC2.
 
-I also manage other developer services like Jenkins and Gerrit, and assist with various other duties involving our build pipeline.
+I also managed other developer services like Jenkins and Gerrit, and assist with various other duties involving our build pipeline.
 
 ### [Goodreads][], San Francisco, CA
 
@@ -127,6 +137,7 @@ Journal, emphasizing open source software and hands-on solutions. See
   [http://www.linkedin.com/in/philiph]: http://www.linkedin.com/in/philiph
   [with a focus on DevOps]: http://www.hollenback.net/index.php/DevOpsMeansDontBeAnAhole
   [manage large-scale deployment issues]: http://www.hollenback.net/index.php/ServerLoadSpreading
+  [Oracle]: https://cloud.oracle.com/
   [Lookout]: https://www.lookout.com/
   [Goodreads]: https://www.goodreads.com/
   [Yahoo]: http://www.yahoo.com
