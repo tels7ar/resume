@@ -45,14 +45,13 @@ One thing I loved about this job is how many new technologies I was able to lear
 
 #### Manager, Release Management - September 2011 to April 2014
 
-I manage a team of three people who are responsible for software
-releases across all of Yahoo Communications (including Mail and
-Messenger). My team sets standards for software releases, plans the
-releases, and pushes the software to production servers. We regularly
-push changes to 10,000 servers a week. I cover everything from planning
-our strategic projects to writing perl scripts to analyze install logs.
-I also coordinate the activities of our Sunnyvale and Bangalore Release
-Management teams.
+I managed a team of three people who are responsible for software releases
+across all of Yahoo Communications (including Mail and Messenger). My team set
+standards for software releases, planned the releases, and pushed the software
+to production servers. We regularly pushed changes to 10,000 servers a week. I
+covered everything from planning our strategic projects to writing perl scripts
+to analyze install logs.  I also coordinated the activities of our Sunnyvale
+and Bangalore Release Management teams.
 
 *Highlight*: Wrote a series of perl scripts to analyze mail farm
 software release quality. Trained Release and QA teams to use these
@@ -118,6 +117,4 @@ Graduated 1996.
   [Yahoo]: http://www.yahoo.com
   [to a new rules-based configuration management system]: https://db.usenix.org/events/lisa10/tech/full_papers/Hollenback.pdf
   [Schrodinger]: http://www.schrodinger.com
-  [Telemetry Investments]: http://telemetry-investments.com/
-  [League of Professional System Administrators]: http://lopsa.org
   [www.hollenback.net/index.php/MyArticles]: http://www.hollenback.net/index.php/MyArticles
