@@ -7,7 +7,7 @@ all:	resume-phil.html resume-phil.pdf
 	git push origin master
 
 %.pdf:	%.md
-	md2pdf $<
+	md2pdf $< resume-phil.pdf
 	#./resume-uploader $@ $< resume-template.tex
 	git commit -m "update pdf via makefile" $@ $< Makefile README.md
 	git push origin master
