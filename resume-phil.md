@@ -6,14 +6,22 @@ San Francisco Bay Area
 
 ## Overview
 
-I'm a senior operations engineer and team leader [with a focus on DevOps][]. 
+I'm a Staff SRE with a focus on team leadership, software development, and best practices.
 I love working with Linux and writing scripts to [manage large-scale deployment issues][].
 
 ## Experience
 
+### [LinkedIn][], Sunnyvale, CA
+
+#### Staff Site Reliability Engineer - September 2019 to Present
+
+At LinkedIn I'm a technical leader on an Infrastructure SRE team.  My main focus over the last several years has been developing a comprehensive framework for testing OS snapshot releases.  My work has included everything from writing the design documentation to implementing the actual code in Python whuke at the same time mentoring other members of the team.  This system is currently operational and used to test every OS release before it is rolled out to the many thousands of servers that run LinkedIn.  I'm also currently doing the design and coding work to integrate out testing with Azure as LinkedIn moves to the cloud.
+
+My passion in the last year has been improving code quality across our SRE organization.  To do this I've written numerous internal blog posts and other documentation on the subject and implemented several new code quality tools in our deployment pipeline.
+
 ### [Oracle][], San Francisco, CA
 
-#### Senior Security Operations Engineer - November 2016 to Present
+#### Senior Security Operations Engineer - November 2016 to August 2019
 
 I was brought on to the new Oracle Cloud to be a technical lead in the Security Operations group.  I was responsible for the technical direction of the team and in general for defining Security Operations for Oracle Cloud.  This included work such as implementing our first vulnerability scanning system and scaling out a yubikey-based authentication solution for internal users.
 
@@ -73,31 +81,10 @@ mail front end systems
 involved  extensive scripting, tracking down dependencies, and
 validating system installs of several thousand software packages.
 
-### [Schrodinger][], New York, NY
-
-#### Senior System Administrator - August 2005 to July 2008
-
-Support 30 users and 100 mixed Linux, Unix, and Windows servers and
-workstations. Install, configure, and administer several cluster systems
-running ROCKS, PBS Pro, and SGE. Install and administer United Devices
-GridMP grid computing system.
-
-*Highlight*: Planned and implemented office and network move between
-floors of midtown Manhattan office tower. This included designing and
-configuring a server room for several hundred systems (including two
-clusters) with full AC and UPS support.
-
-Schrodinger is a leader in developing chemical simulation software for
-use in pharmaceutical and biotechnology research.
-
-*previous positions listed in [my linkedin
-profile][http://www.linkedin.com/in/philiph]*
-
 ## Skills
 
-Well-versed in network and system security. Proficient with programming and
-administering security tokens (Yubikeys).  Very skilled in all kinds of
-scripting for linux system administration and orchestration / cloud management.
+Well-versed in network and system security.   Very skilled in all kinds of
+scripting for linux system administration and orchestration / cloud management with an emphasis in Python.
 Experienced in administering a wide range of systems, with an emphasis on all
 flavors of Linux.  Very comfortable working with CI/CD, large scale
 deployments, and all the automation associated with those systems.
@@ -109,12 +96,11 @@ Emphasis in Artificial Intelligence. Minor in English Literature.
 Graduated 1996.
 
   [http://www.linkedin.com/in/philiph]: http://www.linkedin.com/in/philiph
-  [with a focus on DevOps]: http://www.hollenback.net/index.php/DevOpsMeansDontBeAnAhole
   [manage large-scale deployment issues]: http://www.hollenback.net/index.php/ServerLoadSpreading
+  [LinkedIn]: https://www.linkedin.com
   [Oracle]: https://cloud.oracle.com/
   [Lookout]: https://www.lookout.com/
   [Goodreads]: https://www.goodreads.com/
   [Yahoo]: http://www.yahoo.com
   [to a new rules-based configuration management system]: https://db.usenix.org/events/lisa10/tech/full_papers/Hollenback.pdf
-  [Schrodinger]: http://www.schrodinger.com
   [www.hollenback.net/index.php/MyArticles]: http://www.hollenback.net/index.php/MyArticles
