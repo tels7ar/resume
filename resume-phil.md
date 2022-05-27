@@ -105,6 +105,7 @@ Well-versed in network and system security.  Very skilled in all kinds of script
 administration and orchestration / cloud management with an emphasis in Python.  Experienced in
 administering a wide range of systems, with an emphasis on all flavors of Linux.  Very comfortable
 working with CI/CD, large scale deployments, and all the automation associated with those systems.
+Experienced working in multiple cloud environments.
 
 ## Education
 
