@@ -1,7 +1,7 @@
 # Philip J. Hollenback
 
-philiph@pobox.com
-San Francisco Bay Area
+philiph@pobox.com  
+San Francisco Bay Area  
 [http://www.linkedin.com/in/philiph][]
 
 ## Overview
