@@ -42,7 +42,7 @@ comprehensive health check mechanism to avoid outages).  This included both Pyth
 scripting.  I also did reverse engineering work on our yubikey programming system to both document
 and improve it (that was in Ruby).
 
-I also managed metrics and alerting for the team, in our in-house system.  It used a Grafana front
+I managed metrics and alerting for the team, in our in-house system.  It used a Grafana front
 end and I was responsible for designing and implementing dashboards.
 
 I also ran a biweekly team operational excellence meeting, focused on ensuring that we took proper
