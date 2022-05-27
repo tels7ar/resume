@@ -71,8 +71,8 @@ CloudWatch.
 I was part of the DevOps team and I wore many hats. I handled everything from writing scripts to
 automate Mysql server failovers to overseeing our monitoring setup.
 
-One thing I loved about this job is how many new technologies I was able to learn. This was the
-first time I ever wrote any ruby scripts for system administration and I enjoyed it thoroughly.
+A key project I worked on while I was at Goodreads was a complete move of our infrastructure
+from a datacenter to AWS.
 
 ### [Yahoo][], Sunnyvale CA
 
