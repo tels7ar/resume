@@ -1,3 +1,10 @@
+> **Archived - no longer maintained.**
+> My current, canonical resume now lives at **https://hollenback.net/PhilResume/**
+> (HTML, PDF, and Markdown source). This repository is kept for historical
+> reference only and may be out of date.
+
+---
+
 # Manage Your Resume With Markdown
 
 Based on [Mike White's resume](https://github.com/mwhite/resume).
